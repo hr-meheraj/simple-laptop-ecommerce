@@ -1,0 +1,20 @@
+.qna-container{
+  max-width:800px;
+  margin:0 auto;
+  width:90%;
+  padding:20px;
+  font-family:sans-serif !important;
+}
+
+.qna-title{
+  text-align:center;
+  padding:10px;
+  margin:10px;
+}
+
+@media screen and (min-width:1210px){
+  .qna-container{
+    width:65%;
+    margin: 10px 5%;
+  }
+}
