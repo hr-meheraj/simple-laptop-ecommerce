@@ -1,6 +1,6 @@
 # React Laptop E-commerce Website 
 # [live Site Link](https://react-laptop-e-commerce.netlify.app/)
- ![Website Screenshot](https://www.screenshotmachine.com/serve.php?file=result&1648299517055)
+ ![Website Screenshot](https://i.ibb.co/x8z8dDh/serve.png)
 I have build this project using React Js- This is a responsive Shopping Cart Website. This website has a navBar which contains Title and right Cart Button, When this button is dispabled on the larger screen, When the user click on this button the cart items will be show there. If user click the card nevigate button - it will set show or hide class.  
   Which of those content have in this project 
   > NavBar componete
