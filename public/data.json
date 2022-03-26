@@ -1,0 +1,62 @@
+[
+  {
+    "id": "623dddec920ce87b0332f521",
+    "name": "Acer Aspire ES1-533",
+    "price": 340,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/68b1fbe7f16e4ae3024973f12f3cb313/mdpi/Aspire%20ES1.png"
+  },
+  {
+    "id": "623dddec14c01c14ebd1bd0a",
+    "name": " Macbook Air M1 13'' 2020",
+    "price": 580,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/3473decccb0509fb264818a7512a8b9b/mdpi/Macbook%20Air%20M1%2013_%202020.png"
+  },
+  {
+    "id": "623dddec92faf8ace260246a",
+    "name": "MacBook Pro Core i7",
+    "price": 720,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/5737c6ec2e0716f3d8a7a5c4e0de0d9a/mdpi/Macbook-Pro.png"
+  },
+  {
+    "id": "623dddec464331a736654455",
+    "name": "Dell Alienware 13",
+    "price": 820,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/7f1171a78ce0780a2142a6eb7bc4f3c8/mdpi/Dell%20Alienware.png"
+  },
+  {
+    "id": "623dddec9367a371a1ac043e",
+    "name": "Dell Inspiron 5323 ",
+    "price": 440,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/68a83eeb494a308fe5295da69428a507/mdpi/5.png "
+  },
+  {
+    "id": "623dddec5bc21596b41f0c65",
+    "name": "Acer Altra Pro ",
+    "price": 553,
+    "img": " https://d2yz2hr6q3159h.cloudfront.net/products/52720e003547c70561bf5e03b95aa99f/mdpi/2-Swift.png"
+  },
+  {
+    "id": "623dddecf594a83e5934dd8d",
+    "name": " HP Elitebook Folio",
+    "price": 400,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/aace49c7d80767cffec0e513ae886df0/mdpi/Elitebook%20Folio%209470.png "
+  },
+  {
+    "id": "623dddec8a25cb3ca16e10c3",
+    "name": " HP Compaq 43",
+    "price": 620,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/66368270ffd51418ec58bd793f2d9b1b/mdpi/3-Compaq.png "
+  },
+  {
+    "id": "623dddecaf76141d5d5e834e",
+    "name": " Lenovo IdeaPad ",
+    "price": 560,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/84d2004bf28a2095230e8e14993d398d/mdpi/Lenovo-IdeaPad-Slim-3i-15IIL-10th-Gen.png "
+  },
+  {
+    "id": "623dddecccf3654565f23f07",
+    "name": "Microsoft Studio ",
+    "price": 700,
+    "img": "https://d2yz2hr6q3159h.cloudfront.net/products/afd4836712c5e77550897e25711e1d96/mdpi/Preator-15.png"
+  }
+]
